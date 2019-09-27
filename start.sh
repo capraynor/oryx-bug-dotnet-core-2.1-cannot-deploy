@@ -1,0 +1,1 @@
+dotnet "Test Core Application.dll"
