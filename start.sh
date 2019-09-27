@@ -1,1 +1,1 @@
-dotnet "Test Core Application.dll"
+dotnet "Test Core Application.dll" 
